@@ -1,0 +1,21 @@
+# Flutter / Dart
+.dart_tool/
+.packages
+.pub-cache/
+.pub/
+build/
+.flutter-plugins
+.flutter-plugins-dependencies
+pubspec.lock
+
+# IDE
+*.iml
+.idea/
+.vscode/
+
+# Secretos y firmas (nunca publicar)
+.env
+*.keystore
+*.jks
+android/local.properties
+android/key.properties
